@@ -1,6 +1,6 @@
 {
 	"name": "@better-scroll/shared-utils",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "shared-utils for BetterScroll",
 	"author": "huangyi <ustbhuangyi@gmail.com>",
 	"main": "dist/shared-utils.min.js",
@@ -25,5 +25,5 @@
 		"url": "git+ssh://git@github.com/ustbhuangyi/better-scroll.git",
 		"directory": "packages/shared-utils"
 	},
-	"gitHead": "5fabe60fd1cfb7e305de701ad8809c403668ddfc"
+	"gitHead": "fd87453b5da141a9e50eb4087844f9b64e177d7d"
 }
